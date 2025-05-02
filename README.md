@@ -56,7 +56,7 @@ Follow these steps to run the app locally on your Windows/macOS/Linux system:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flutter-simple-calculator.git
+git clone https://github.com/furqanahmed28/flutter-simple-calculator.git
 ```
 
 ### Navigate to the project directory:
