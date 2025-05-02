@@ -1,4 +1,4 @@
-# Flutter Simple Calulaotr
+# Flutter Simple Calculator
 
 A minimal Flutter demo app to showcase Simple Calculator.
 
